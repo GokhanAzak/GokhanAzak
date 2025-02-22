@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gokhan</h1>
-<h3 align="center">I am a third year computer engineering student and I love my job</h3>
+<h3 align="center">I am a Last year computer engineering student and I love my job</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokhanazak&label=Profile%20views&color=0e75b6&style=flat" alt="gokhanazak" /> </p>
 
